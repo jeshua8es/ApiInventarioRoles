@@ -4,7 +4,6 @@
 /public/hot
 /public/storage
 .DS_Store
-composer.lock
 /storage/*.key
 /storage/pail
 /vendor
